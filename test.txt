@@ -1,5 +1,6 @@
 ﻿= Release vcjghfj 2.1.0 =
 Released: 2016-05-10
+vcxjhgvkjhf
 
 == Changes ==
  * We disabled the stripping of comments on commit messages by default again (see issue #2715)
